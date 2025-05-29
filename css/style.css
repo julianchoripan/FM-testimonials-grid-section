@@ -152,7 +152,7 @@ body {
   }
 
   .cards:first-child {
-    background-image: url(../images/bg-pattern-quotation.svg);
+    background-image: url("../images/bg-pattern-quotation.svg");
     background-repeat: no-repeat;
     background-position: top right 40px;
     grid-area: A;
